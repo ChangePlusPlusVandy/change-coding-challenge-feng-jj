@@ -1,5 +1,4 @@
-Before running the program, please be sure to put in your API credentials inside secret.py - not that I don't trust you guys, but for general safety I don't want to include my own :). Sorry if this
-causes any trouble for you!
+Before running the program, please be sure to put in your API credentials inside secret.py - for general safety I chose to omit my Twitter API credentials.
 
 Running main.py runs the game itself, and the game instructions are shown to the player when ran.
 
